@@ -43,8 +43,7 @@ npm install
 
 # Start the dev server
 npm run dev
-
-
+```
 🚀 Deployment
 This project is deployed using Vercel:
 🔗 https://gta-vi-website-using-react.vercel.app
